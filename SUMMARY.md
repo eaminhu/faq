@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Please select Language](README.md)
+* [hard](README.md)
+* [Please select Language](<README (1).md>)
   * [en](LANGS/en/README.md)
     * [Git](LANGS/en/Git.md)
     * [Github](LANGS/en/Github.md)
