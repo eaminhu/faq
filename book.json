@@ -1,0 +1,30 @@
+{
+    "title": "NEXUS 帮助中心",
+    "description": "NEXUS 帮助中心",
+    "author": "NEXUS",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "links": {
+        "sidebar": {
+            "Home": "http://dev.nexusftx.com:8080/#/"
+        }
+    },
+    "styles": {
+        "website": "styles/black-theme.css"
+    },
+    "pluginsConfig": {
+        "theme-faq": {
+          "logo": "/images/logo1.png"
+        },
+        "language-picker": { 
+            "grid-columns": 3
+        }
+    },
+    "plugins": [
+        "theme-faq",
+        "-lunr",
+        "search-pro@^2.0.2",
+        "language-picker"
+    ]
+}

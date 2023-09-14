@@ -1,0 +1,1 @@
+Git is a distributed version control software originally created by Linus Torvalds and released under the GPL in 2005. It was originally designed to better manage Linux kernel development. It should be noted that this differs from GNU Interactive Tools[6], a file manager with a Norton Commander-like interface.
